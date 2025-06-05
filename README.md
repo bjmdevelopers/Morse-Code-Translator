@@ -29,7 +29,7 @@ A responsive web application that converts text to Morse code and vice versa, wi
 2. Open `index.html` in any modern browser
 3. Start translating!
 
-**Live Demo:** [Demo Link](https://github.com/bjmdevelopers/Morse-Code-Translator/)
+**Live Demo:** [Demo Link](https://bjmdevelopers.github.io/Morse-Code-Translator/)
 
 ## 🧑‍💻 How to Use
 
