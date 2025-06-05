@@ -24,7 +24,7 @@ A responsive web application that converts text to Morse code and vice versa, wi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/morse-code-translator.git
+   git clone https://github.com/bjmdevelopers/morse-code-translator.git
    ```
 2. Open `index.html` in any modern browser
 3. Start translating!
