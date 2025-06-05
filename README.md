@@ -8,8 +8,6 @@
 
 A responsive web application that converts text to Morse code and vice versa, with sound and light simulation capabilities.
 
-![Morse Code Translator Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl6a2V5dWU1eGZ1b2V6Z3BjeGJjY3FqY2VtN2RlZ2Z6Y2V6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n6WywJyh6nE4huU/giphy.gif)
-
 ## 🌟 Features
 
 - **Bidirectional Translation**
@@ -32,7 +30,7 @@ A responsive web application that converts text to Morse code and vice versa, wi
 2. Open `index.html` in any modern browser
 3. Start translating!
 
-**Live Demo:** [GitHub Pages Link](#) *(coming soon)*
+**Live Demo:** [Demo Link]
 
 ## 🧑‍💻 How to Use
 
@@ -69,7 +67,7 @@ A responsive web application that converts text to Morse code and vice versa, wi
 | L      | `.-..`  | Y      | `-.--`  |
 | M      | `--`    | Z      | `--..`  |
 
-*(See full cheat sheet in the app)*
+*(See full cheat sheet in the web app)*
 
 ## 🛠 Technical Details
 
