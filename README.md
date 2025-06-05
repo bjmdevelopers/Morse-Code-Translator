@@ -1,8 +1,4 @@
-# Morse-Code-Translator
 
-Here's a professional, visually appealing `README.md` for your GitHub repository:
-
-```markdown
 # 📻 Morse Code Translator Web App
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
